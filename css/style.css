@@ -1,0 +1,20 @@
+*{
+    font-family: 'Tinos', serif;
+}
+h1 {
+ font-weight: 900 !important;
+    font-size: 80px !important;
+}
+
+
+p{
+    font-size: 35px !important;
+}
+button{
+ width: 250px !important;
+ height: 80px !important;
+    background-color: blue !important;
+}
+button:hover {
+    background-color: greenyellow !important;
+}
